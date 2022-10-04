@@ -1,4 +1,6 @@
 ### Hello there
+**Contact**
+<br />
 Want to reach me? Try the links below
 <br />
 <a href="https://www.xing.com/profile/Justus_BeckerRabbenstein">
@@ -8,8 +10,11 @@ Want to reach me? Try the links below
 <img align="left" alt="Justus Becker-Rabbenstein LinkedIn" width="22px" src="https://play-lh.googleusercontent.com/kMofEFLjobZy_bCuaiDogzBcUT-dz3BBbOrIEjJ-hqOabjK8ieuevGe6wlTD15QzOqw=w240-h480-rw" />
 
 <br />
-
-Hi, I'm Justus Becker-Rabbenstein. On this GitHub page I'm presenting my coding projects. I hope you enjoy and have a nice day.
+  
+**Myself**
+<p>
+  Hi, I'm Justus Becker-Rabbenstein. On this GitHub page I'm presenting my coding projects. I hope you enjoy and have a nice day.
+  </p>
 
 **Languages and Tools:**  
 <code><img height="20" src="https://cdn-icons-png.flaticon.com/512/919/919827.png"></code>
@@ -19,7 +24,7 @@ Hi, I'm Justus Becker-Rabbenstein. On this GitHub page I'm presenting my coding 
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
 
-📈 My GitHub Stats
+📈 **My GitHub Stats**
 
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=Justus-Becker-Rabbenstein&show_icons=true&theme=gotham" alt="Justus-Becker-Rabbenstein" />
 
