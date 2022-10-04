@@ -11,7 +11,7 @@ Want to reach me? Try the links below
 
 Hi, I'm Justus Becker-Rabbenstein. On this GitHub page I'm presenting my coding projects. I hope you enjoy and have a nice day.
 
-**languages and tools:**  
+**Languages and Tools:**  
 <code><img height="20" src="https://cdn-icons-png.flaticon.com/512/919/919827.png"></code>
 <code><img height="20" src="https://cdn-icons-png.flaticon.com/512/136/136527.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
@@ -19,7 +19,7 @@ Hi, I'm Justus Becker-Rabbenstein. On this GitHub page I'm presenting my coding 
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
 
-📈 my github stats
+📈 My GitHub Stats
 
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=Justus-Becker-Rabbenstein&show_icons=true&theme=gotham" alt="Justus-Becker-Rabbenstein" />
 
