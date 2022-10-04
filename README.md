@@ -19,8 +19,9 @@ Want to reach me? Try the links below
 <br />
   
 **Languages and Tools:**  
+<!-- HTML, CSS, JavaScript -->
 <code><img height="20" src="https://cdn-icons-png.flaticon.com/512/919/919827.png"></code>
-<code><img height="20" src="https://cdn-icons-png.flaticon.com/512/136/136527.png"></code>
+<code><img height="20" src="https://cdn-icons-png.flaticon.com/512/5968/5968242.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"></code>
