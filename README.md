@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on Web Development.
 - 📫 You can reach me at Xing: <a href="https://www.xing.com/profile/Justus_BeckerRabbenstein">
   <img align="" alt="Justus Becker-Rabbenstein Xing" width="22px" src="https://banner2.cleanpng.com/20180414/ddq/kisspng-xing-logo-computer-icons-tiff-5ad290dac0a977.1170864115237490827892.jpg" />
-</a> <a href="https://de.linkedin.com/in/justus-becker-rabbenstein-b33b07177">
+</a> or LinkedIn: <a href="https://de.linkedin.com/in/justus-becker-rabbenstein-b33b07177">
   <img align="" alt="Justus Becker-Rabbenstein LinkedIn" width="22px" src="https://play-lh.googleusercontent.com/kMofEFLjobZy_bCuaiDogzBcUT-dz3BBbOrIEjJ-hqOabjK8ieuevGe6wlTD15QzOqw=w240-h480-rw" />
 </a>
 
