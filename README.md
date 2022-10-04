@@ -8,8 +8,6 @@
   <img align="" alt="Justus Becker-Rabbenstein LinkedIn" width="22px" src="https://play-lh.googleusercontent.com/kMofEFLjobZy_bCuaiDogzBcUT-dz3BBbOrIEjJ-hqOabjK8ieuevGe6wlTD15QzOqw=w240-h480-rw" />
 </a>
 
- or LinkedIn [LinkedIn-Profile]()
-
 <img src="https://www.onlinecoursereport.com/wp-content/uploads/2020/07/shutterstock_394793860-1024x784.jpg" alt="Webdev image" width ="300px" height="200px" />
 
 <!---
