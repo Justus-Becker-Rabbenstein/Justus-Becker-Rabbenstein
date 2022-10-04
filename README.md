@@ -1,16 +1,28 @@
-- 👋 Hi, I’m @Justus-Becker-Rabbenstein
-- 👀 I’m interested in Web Development.
-- 🌱 I’m currently learning HTML, CSS, JavaScript, React.
-- 💞️ I’m looking to collaborate on Web Development.
-- 📫 You can reach me at Xing: <a href="https://www.xing.com/profile/Justus_BeckerRabbenstein">
-  <img align="" alt="Justus Becker-Rabbenstein Xing" width="22px" src="https://banner2.cleanpng.com/20180414/ddq/kisspng-xing-logo-computer-icons-tiff-5ad290dac0a977.1170864115237490827892.jpg" />
-</a> or LinkedIn: <a href="https://de.linkedin.com/in/justus-becker-rabbenstein-b33b07177">
-  <img align="" alt="Justus Becker-Rabbenstein LinkedIn" width="22px" src="https://play-lh.googleusercontent.com/kMofEFLjobZy_bCuaiDogzBcUT-dz3BBbOrIEjJ-hqOabjK8ieuevGe6wlTD15QzOqw=w240-h480-rw" />
-</a>
+### Hello there
+Want to reach me? Try the links below
+<br />
+<a href="https://www.xing.com/profile/Justus_BeckerRabbenstein">
+<img align="left" alt="Justus Becker-Rabbenstein Xing" width="22px" src="https://banner2.cleanpng.com/20180414/ddq/kisspng-xing-logo-computer-icons-tiff-5ad290dac0a977.1170864115237490827892.jpg" />
+</a> 
+<a href="https://de.linkedin.com/in/justus-becker-rabbenstein-b33b07177">
+<img align="left" alt="Justus Becker-Rabbenstein LinkedIn" width="22px" src="https://play-lh.googleusercontent.com/kMofEFLjobZy_bCuaiDogzBcUT-dz3BBbOrIEjJ-hqOabjK8ieuevGe6wlTD15QzOqw=w240-h480-rw" />
 
-<img src="https://www.onlinecoursereport.com/wp-content/uploads/2020/07/shutterstock_394793860-1024x784.jpg" alt="Webdev image" width ="300px" height="200px" />
+<br />
 
-<!---
-Justus-Becker-Rabbenstein/Justus-Becker-Rabbenstein is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Hi, I'm Justus Becker-Rabbenstein. On this GitHub page I'm presenting my coding projects. I hope you enjoy and have a nice day.
+
+**languages and tools:**  
+<code><img height="20" src="https://cdn-icons-png.flaticon.com/512/919/919827.png"></code>
+<code><img height="20" src="https://cdn-icons-png.flaticon.com/512/136/136527.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
+
+📈 my github stats
+
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=Justus-Becker-Rabbenstein&show_icons=true&theme=gotham" alt="Justus-Becker-Rabbenstein" />
+
+
+
+
