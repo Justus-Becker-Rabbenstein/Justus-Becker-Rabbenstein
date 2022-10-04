@@ -1,4 +1,12 @@
 ### Hello there
+  ![Hello image](https://media.tenor.com/pvFJwncehzIAAAAM/hello-there-private-from-penguins-of-madagascar.gif)
+  <br />
+  
+**Myself**
+<p>
+  Hi, I'm Justus Becker-Rabbenstein. On this GitHub page I'm presenting my coding projects. I'm currently learning about web development (HTML, CSS, JavaScript and React). Have a nice day and see you around.
+  </p>
+  
 **Contact**
 <br />
 Want to reach me? Try the links below
@@ -8,14 +16,8 @@ Want to reach me? Try the links below
 </a> 
 <a href="https://de.linkedin.com/in/justus-becker-rabbenstein-b33b07177">
 <img align="left" alt="Justus Becker-Rabbenstein LinkedIn" width="22px" src="https://play-lh.googleusercontent.com/kMofEFLjobZy_bCuaiDogzBcUT-dz3BBbOrIEjJ-hqOabjK8ieuevGe6wlTD15QzOqw=w240-h480-rw" />
-
 <br />
   
-**Myself**
-<p>
-  Hi, I'm Justus Becker-Rabbenstein. On this GitHub page I'm presenting my coding projects. I hope you enjoy and have a nice day.
-  </p>
-
 **Languages and Tools:**  
 <code><img height="20" src="https://cdn-icons-png.flaticon.com/512/919/919827.png"></code>
 <code><img height="20" src="https://cdn-icons-png.flaticon.com/512/136/136527.png"></code>
