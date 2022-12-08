@@ -4,7 +4,7 @@
   
 **Myself**
 <p>
-  Hi, I'm Justus Becker-Rabbenstein. On this GitHub page I'm presenting my coding projects. I'm currently learning about web development (HTML, CSS, JavaScript and React) at <a href="https://www.neuefische.de/">neuefische GmbH</a>. Have a nice day and see you around.
+  Hi, I'm Justus Becker-Rabbenstein. On this GitHub page I'm presenting my coding projects. I'm currently learning about web development (HTML, CSS, JavaScript, React and Next.js) at <a href="https://www.neuefische.de/">neuefische GmbH</a>. Have a nice day and see you around.
   </p>
   
 **Contact**
