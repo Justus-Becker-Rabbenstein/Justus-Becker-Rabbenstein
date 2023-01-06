@@ -12,20 +12,24 @@
 Want to reach me? Try the links below
 <br />
 <a href="https://www.xing.com/profile/Justus_BeckerRabbenstein">
-<img align="left" alt="Justus Becker-Rabbenstein Xing" width="22px" src="https://banner2.cleanpng.com/20180414/ddq/kisspng-xing-logo-computer-icons-tiff-5ad290dac0a977.1170864115237490827892.jpg" />
+<img align="left" alt="Justus Becker-Rabbenstein Xing" width="50rem" src="https://banner2.cleanpng.com/20180414/ddq/kisspng-xing-logo-computer-icons-tiff-5ad290dac0a977.1170864115237490827892.jpg" />
 </a> 
 <a href="https://de.linkedin.com/in/justus-becker-rabbenstein-b33b07177">
-<img align="left" alt="Justus Becker-Rabbenstein LinkedIn" width="22px" src="https://play-lh.googleusercontent.com/kMofEFLjobZy_bCuaiDogzBcUT-dz3BBbOrIEjJ-hqOabjK8ieuevGe6wlTD15QzOqw=w240-h480-rw" />
+<img align="left" alt="Justus Becker-Rabbenstein LinkedIn" width="50rem" src="https://play-lh.googleusercontent.com/kMofEFLjobZy_bCuaiDogzBcUT-dz3BBbOrIEjJ-hqOabjK8ieuevGe6wlTD15QzOqw=w240-h480-rw" />
+
 <br />
-  
+<br />
+
 **Languages and Tools:**  
-<!-- HTML, CSS, JavaScript -->
-<code><img height="20" src="https://cdn-icons-png.flaticon.com/512/919/919827.png"></code>
-<code><img height="20" src="https://cdn-icons-png.flaticon.com/512/5968/5968242.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
+<div style="display:flex;">
+  <img height="50rem" src="https://api.iconify.design/simple-icons/nextdotjs.svg" alt="Next.js">
+  <img height="50rem" src="https://api.iconify.design/logos/react.svg" alt="React">
+    <img height="50rem" src="https://user-images.githubusercontent.com/4060187/61057426-4e5a4600-a3c3-11e9-9114-630743e05814.png" alt="Formik">
+  <img height="50rem" src="https://api.iconify.design/logos/cloudinary-icon.svg" alt="Cloudinary">
+  <img height="50rem" src="https://api.iconify.design/logos/javascript.svg" alt="JavaScript">
+  <img height="50rem" src="https://api.iconify.design/logos/css-3.svg" alt="CSS">
+  <img height="50rem" src="https://api.iconify.design/logos/html-5.svg" alt="HTML">
+</div>
 
 📈 **My GitHub Stats**
 
