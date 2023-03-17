@@ -28,6 +28,8 @@ Want to reach me? Try the links below
   <img height="50rem" src="https://api.iconify.design/logos/cloudinary-icon.svg" alt="Cloudinary">
   <img height="50rem" src="https://api.iconify.design/logos/javascript.svg" alt="JavaScript">
   <img height="50rem" src="https://api.iconify.design/logos/css-3.svg" alt="CSS">
+  <img height="50rem" src="https://api.iconify.design/vscode-icons/file-type-styled.svg" alt="Styled-Components">
+  <img height="50rem" src="https://api.iconify.design/skill-icons/bootstrap.svg" alt="Bootstrap">
   <img height="50rem" src="https://api.iconify.design/logos/html-5.svg" alt="HTML">
 </div>
 
