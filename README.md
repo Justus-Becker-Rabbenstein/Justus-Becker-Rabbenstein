@@ -23,7 +23,7 @@ Want to reach me? Try the links below
 ## Languages and Tools:
 <table>
   <tr>
-    <th>Zeit</th>
+    <th>Time</th>
     <th>Name</th>
     <th>Icon</th>
   </tr>
