@@ -83,11 +83,3 @@ Want to reach me? Try the links below
     <td><img height="50rem" src="https://api.iconify.design/logos/mysql.svg" alt="mySQL"></td>
   </tr>
 </table>
-
-📈 **My GitHub Stats**
-
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=Justus-Becker-Rabbenstein&show_icons=true&theme=gotham" alt="Justus-Becker-Rabbenstein" />
-
-
-
-
