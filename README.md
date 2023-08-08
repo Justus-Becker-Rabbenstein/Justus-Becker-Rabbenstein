@@ -7,7 +7,6 @@ Hi, I'm Justus Becker-Rabbenstein. On this GitHub page I'm presenting my coding 
 </p>
   
 ## Contact
-<br />
 Want to reach me? Try the links below
 <br />
 <a href="https://www.xing.com/profile/Justus_BeckerRabbenstein">
@@ -15,6 +14,8 @@ Want to reach me? Try the links below
 </a> 
 <a href="https://de.linkedin.com/in/justus-becker-rabbenstein-b33b07177">
 <img align="left" alt="Justus Becker-Rabbenstein LinkedIn" width="50rem" src="https://play-lh.googleusercontent.com/kMofEFLjobZy_bCuaiDogzBcUT-dz3BBbOrIEjJ-hqOabjK8ieuevGe6wlTD15QzOqw=w240-h480-rw" />
+<br />
+<br />
 
 ## Languages and Tools:
 <table>
