@@ -9,16 +9,23 @@ Hi, I'm Justus Becker-Rabbenstein. On this GitHub page I'm presenting my coding 
 ## Contact
 <table>
   <tr>
-    <th>Want to reach me? Try the links below</th>
+    <th>Want to reach me?</th>
+    <th>Try these links</th>
   </tr>
   <tr>
     <td>
-      <a href="https://www.xing.com/profile/Justus_BeckerRabbenstein">
-        <img align="left" alt="Justus Becker-Rabbenstein Xing" width="50rem" src="https://banner2.cleanpng.com/20180414/ddq/kisspng-xing-logo-computer-icons-tiff-5ad290dac0a977.1170864115237490827892.jpg" />
-      </a> 
-      <a href="https://de.linkedin.com/in/justus-becker-rabbenstein-b33b07177">
-        <img align="left" alt="Justus Becker-Rabbenstein LinkedIn" width="50rem" src="https://play-lh.googleusercontent.com/kMofEFLjobZy_bCuaiDogzBcUT-dz3BBbOrIEjJ-hqOabjK8ieuevGe6wlTD15QzOqw=w240-h480-rw" />
-      </a>
+      LinkedIn
+      <br />
+      Xing
+  </td>
+  <td>
+    <a href="https://de.linkedin.com/in/justus-becker-rabbenstein-b33b07177">
+    <img align="left" alt="Justus Becker-Rabbenstein LinkedIn" width="50rem" src="https://play-lh.googleusercontent.com/kMofEFLjobZy_bCuaiDogzBcUT-dz3BBbOrIEjJ-hqOabjK8ieuevGe6wlTD15QzOqw=w240-h480-rw" />
+    </a>
+    <br />
+    <a href="https://www.xing.com/profile/Justus_BeckerRabbenstein">
+    <img align="left" alt="Justus Becker-Rabbenstein Xing" width="50rem" src="https://banner2.cleanpng.com/20180414/ddq/kisspng-xing-logo-computer-icons-tiff-5ad290dac0a977.1170864115237490827892.jpg" />
+    </a> 
   </td>
   </tr>
 </table>
