@@ -38,15 +38,16 @@ Hi, I'm Justus Becker-Rabbenstein. On this GitHub page I'm presenting my coding 
     <th>Icon</th>
   </tr>
   <tr>
-    <td>07. - currently</td>
+    <td>07.2023 - currently</td>
+    <td>Angular</td>
+    <td><img height="50rem" src="https://api.iconify.design/logos/angular-icon.svg" alt="Angular"></td>
+  </tr>
+  <tr>
+    <td>07. - 08.2023</td>
     <td>
-      Angular
-      <br />
       Spring
     </td>
     <td>
-      <img height="50rem" src="https://api.iconify.design/logos/angular-icon.svg" alt="Angular">
-      <br />
       <img height="50rem" src="https://api.iconify.design/devicon/spring.svg" alt="Spring">
     </td>
   </tr>
