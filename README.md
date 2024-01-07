@@ -60,7 +60,7 @@ Have a nice day and see you around.
   </tr>
   <tr>
     <td>
-      04.10. - 06.01.2023
+      04.10.2022 - 06.01.2023
     </td>
     <td>
       Next.js
