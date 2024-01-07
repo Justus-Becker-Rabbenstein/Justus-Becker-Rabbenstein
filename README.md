@@ -39,6 +39,15 @@ Have a nice day and see you around.
     <th>Name</th>
     <th>Icon</th>
   </tr>
+    <tr>
+    <td>01.2024 - current</td>
+    <td>C# ASP.NET Core</td>
+    <td>
+      <img height="50rem" src="https://api.iconify.design/devicon/csharp.svg" alt="C#">
+      <img height="50rem" src="https://api.iconify.design/vscode-icons/file-type-asp.svg" alt="ASP">
+      <img height="50rem" src="https://api.iconify.design/skill-icons/dotnet.svg" alt=".NET">
+    </td>
+  </tr>
   <tr>
     <td>07. - 12.2023</td>
     <td>Angular</td>
