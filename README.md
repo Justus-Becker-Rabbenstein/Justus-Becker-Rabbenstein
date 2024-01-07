@@ -40,7 +40,7 @@ Have a nice day and see you around.
     <th>Icon</th>
   </tr>
   <tr>
-    <td>07.2023 - currently</td>
+    <td>07.2023 - 12.2023</td>
     <td>Angular</td>
     <td><img height="50rem" src="https://api.iconify.design/logos/angular-icon.svg" alt="Angular"></td>
   </tr>
