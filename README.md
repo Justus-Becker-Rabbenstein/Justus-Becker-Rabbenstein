@@ -41,11 +41,22 @@ Have a nice day and see you around.
   </tr>
     <tr>
     <td>01.2024 - current</td>
-    <td>C#, ASP.NET Core, Bootstrap</td>
+    <td>
+      C#
+      <br />
+      ASP
+      <br />
+      .NET
+      <br />
+      Bootstrap
+    </td>
     <td>
       <img height="50rem" src="https://api.iconify.design/devicon/csharp.svg" alt="C#">
+      <br />
       <img height="50rem" src="https://api.iconify.design/vscode-icons/file-type-asp.svg" alt="ASP">
+      <br />
       <img height="50rem" src="https://api.iconify.design/skill-icons/dotnet.svg" alt=".NET">
+      <br />
       <img height="50rem" src="https://api.iconify.design/logos/bootstrap.svg" alt="Bootstrap">
     </td>
   </tr>
