@@ -40,7 +40,7 @@ Have a nice day and see you around.
     <th>Icon</th>
   </tr>
     <tr>
-    <td>01.2024 - current</td>
+    <td>01.2024 - 03.2024</td>
     <td>
       C#
       <br />
