@@ -40,6 +40,15 @@ Have a nice day and see you around.
     <th>Icon</th>
   </tr>
     <tr>
+    <td>08.2024 - current</td>
+    <td>
+    PHP, Laravel, JavaScript, Vue
+    </td>
+    <td>
+    -
+    </td>
+  </tr>
+    <tr>
     <td>01.2024 - 03.2024</td>
     <td>
       C#
@@ -52,11 +61,8 @@ Have a nice day and see you around.
     </td>
     <td>
       <img height="50rem" src="https://api.iconify.design/devicon/csharp.svg" alt="C#">
-      <br />
       <img height="50rem" src="https://api.iconify.design/vscode-icons/file-type-asp.svg" alt="ASP">
-      <br />
       <img height="50rem" src="https://api.iconify.design/skill-icons/dotnet.svg" alt=".NET">
-      <br />
       <img height="50rem" src="https://api.iconify.design/logos/bootstrap.svg" alt="Bootstrap">
     </td>
   </tr>
