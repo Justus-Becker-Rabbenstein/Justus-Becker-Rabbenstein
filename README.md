@@ -37,7 +37,6 @@ Have a nice day and see you around.
   <tr>
     <th>Time</th>
     <th>Name</th>
-    <th>Icon</th>
   </tr>
     <tr>
     <td>08.2024 - current</td>
@@ -49,12 +48,6 @@ Have a nice day and see you around.
       JavaScript      
       <br />
       Vue
-    </td>
-    <td>
-          <img height="50rem" src="" alt="PHP">
-            <img height="50rem" src="" alt="Laravel">
-      <img height="50rem" src="https://api.iconify.design/logos/javascript.svg" alt="JavaScript">
-            <img height="50rem" src="" alt="Vue">
     </td>
   </tr>
     <tr>
@@ -68,31 +61,20 @@ Have a nice day and see you around.
       <br />
       Bootstrap
     </td>
-    <td>
-      <img height="50rem" src="https://api.iconify.design/devicon/csharp.svg" alt="C#">
-      <img height="50rem" src="https://api.iconify.design/vscode-icons/file-type-asp.svg" alt="ASP">
-      <img height="50rem" src="https://api.iconify.design/skill-icons/dotnet.svg" alt=".NET">
-      <img height="50rem" src="https://api.iconify.design/logos/bootstrap.svg" alt="Bootstrap">
-    </td>
   </tr>
   <tr>
     <td>07. - 12.2023</td>
     <td>Angular</td>
-    <td><img height="50rem" src="https://api.iconify.design/logos/angular-icon.svg" alt="Angular"></td>
   </tr>
   <tr>
     <td>07. - 08.2023</td>
     <td>
       Spring
     </td>
-    <td>
-      <img height="50rem" src="https://api.iconify.design/devicon/spring.svg" alt="Spring">
-    </td>
   </tr>
   <tr>
     <td>02. - 03.2023</td>
     <td>Bootstrap</td>
-    <td><img height="50rem" src="https://api.iconify.design/logos/bootstrap.svg" alt="Bootstrap"></td>
   </tr>
   <tr>
     <td>
@@ -115,34 +97,12 @@ Have a nice day and see you around.
       <br />
       HTML
     </td>
-    <td>
-      <img height="50rem" src="https://api.iconify.design/simple-icons/nextdotjs.svg" alt="Next.js">
-      <br />
-      <img height="50rem" src="https://api.iconify.design/logos/react.svg" alt="React">
-      <br />
-      <img height="50rem" src="https://user-images.githubusercontent.com/4060187/61057426-4e5a4600-a3c3-11e9-9114-630743e05814.png" alt="Formik">
-      <br />
-      <img height="50rem" src="https://api.iconify.design/logos/cloudinary-icon.svg" alt="Cloudinary">
-      <br />
-      <img height="50rem" src="https://api.iconify.design/logos/javascript.svg" alt="JavaScript">
-      <br />
-      <img height="50rem" src="https://api.iconify.design/logos/css-3.svg" alt="CSS">
-      <br />
-      <img height="50rem" src="https://api.iconify.design/vscode-icons/file-type-styled.svg" alt="Styled-Components">
-      <br />
-      <img height="50rem" src="https://api.iconify.design/logos/html-5.svg" alt="HTML">
-    </td>
   </tr>
     <td>08. - 12.2021</td>
     <td>
       Java
       <br />
       mySQL
-    </td>
-    <td>
-      <img height="50rem" src="https://api.iconify.design/devicon/java.svg" alt="Java">
-      <br />
-      <img height="50rem" src="https://api.iconify.design/logos/mysql.svg" alt="mySQL">
     </td>
   </tr>
 </table>
