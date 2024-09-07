@@ -4,7 +4,7 @@
 ## Myself
 <p>
 Hi, I'm Justus Becker-Rabbenstein. On this GitHub page I'm presenting my coding projects. I've learned about web development (HTML, CSS, JavaScript, React and Next.js) at <a href="https://www.neuefische.de/">neuefische GmbH</a>. 
-I'm currently working as a Angular developer.
+I'm currently working as a PHP developer.
 Have a nice day and see you around.
 </p>
   
@@ -42,10 +42,19 @@ Have a nice day and see you around.
     <tr>
     <td>08.2024 - current</td>
     <td>
-    PHP, Laravel, JavaScript, Vue
+      PHP
+      <br />
+      Laravel
+      <br />
+      JavaScript      
+      <br />
+      Vue
     </td>
     <td>
-    -
+          <img height="50rem" src="" alt="PHP">
+            <img height="50rem" src="" alt="Laravel">
+      <img height="50rem" src="https://api.iconify.design/logos/javascript.svg" alt="JavaScript">
+            <img height="50rem" src="" alt="Vue">
     </td>
   </tr>
     <tr>
