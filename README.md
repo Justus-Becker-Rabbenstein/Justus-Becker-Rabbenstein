@@ -9,28 +9,15 @@ Have a nice day and see you around.
 </p>
   
 ## Contact
-<table>
-  <tr>
-    <th>Want to reach me?</th>
-    <th>Try these links</th>
-  </tr>
-  <tr>
-    <td>
-      LinkedIn
-      <br />
-      Xing
-  </td>
-  <td>
+<div>
     <a href="https://de.linkedin.com/in/justus-becker-rabbenstein-b33b07177">
-    <img align="left" alt="Justus Becker-Rabbenstein LinkedIn" width="50rem" src="https://play-lh.googleusercontent.com/kMofEFLjobZy_bCuaiDogzBcUT-dz3BBbOrIEjJ-hqOabjK8ieuevGe6wlTD15QzOqw=w240-h480-rw" />
+      <img alt="Justus Becker-Rabbenstein LinkedIn" width="100rem" src="https://upload.wikimedia.org/wikipedia/commons/4/4e/LinkedIn_Logo_%28with_%C2%AE%29.svg" />
     </a>
-    <br />
+  <br />
     <a href="https://www.xing.com/profile/Justus_BeckerRabbenstein">
-    <img align="left" alt="Justus Becker-Rabbenstein Xing" width="50rem" src="https://banner2.cleanpng.com/20180414/ddq/kisspng-xing-logo-computer-icons-tiff-5ad290dac0a977.1170864115237490827892.jpg" />
+      <img alt="Justus Becker-Rabbenstein Xing" width="100rem" src="https://upload.wikimedia.org/wikipedia/commons/b/b4/Xing_logo.svg" />
     </a> 
-  </td>
-  </tr>
-</table>
+</div>
 
 ## Languages and Tools:
 <table>
