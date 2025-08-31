@@ -37,35 +37,13 @@ Have a nice day and see you around.
       Vue
     </td>
   </tr>
-    <tr>
-    <td>01.2024 - 03.2024</td>
-    <td>
-      C#
-      <br />
-      ASP
-      <br />
-      .NET
-      <br />
-      Bootstrap
-    </td>
-  </tr>
   <tr>
     <td>07. - 12.2023</td>
     <td>Angular</td>
   </tr>
   <tr>
-    <td>07. - 08.2023</td>
     <td>
-      Spring
-    </td>
-  </tr>
-  <tr>
-    <td>02. - 03.2023</td>
-    <td>Bootstrap</td>
-  </tr>
-  <tr>
-    <td>
-      04.10.2022 - 06.01.2023
+      10.2022 - 01.2023
     </td>
     <td>
       Next.js
