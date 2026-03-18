@@ -22,7 +22,7 @@ Have a nice day and see you around.
     <th>Name</th>
   </tr>
     <tr>
-    <td>08.2024 - current</td>
+    <td>08.2024 - 01.2026</td>
     <td>
       PHP
       <br />
