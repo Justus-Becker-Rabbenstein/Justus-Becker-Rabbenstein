@@ -13,10 +13,6 @@ Have a nice day and see you around.
     <a href="https://de.linkedin.com/in/justus-becker-rabbenstein-b33b07177">
       <img alt="Justus Becker-Rabbenstein LinkedIn" width="100rem" src="https://upload.wikimedia.org/wikipedia/commons/4/4e/LinkedIn_Logo_%28with_%C2%AE%29.svg" />
     </a>
-  <br />
-    <a href="https://www.xing.com/profile/Justus_BeckerRabbenstein">
-      <img alt="Justus Becker-Rabbenstein Xing" width="100rem" src="https://upload.wikimedia.org/wikipedia/commons/b/b4/Xing_logo.svg" />
-    </a> 
 </div>
 
 ## Languages and Tools:
